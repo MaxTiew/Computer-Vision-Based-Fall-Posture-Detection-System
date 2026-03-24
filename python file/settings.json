@@ -1,0 +1,26 @@
+{
+    "RELATIVE_SLUMP_THRESHOLD": 0.15,
+    "TILT_THRESHOLD_DEG": 45,
+    "EYE_SQUINT_THRESHOLD": 0.05,
+    "BROW_FURROW_THRESHOLD": 0.18,
+    "HAND_HOLD_THRESHOLD": 1.5,
+    "SLUMP_HOLD_DURATION": 2,
+    "TILT_HOLD_DURATION": 1.5,
+    "PAIN_HOLD_DURATION": 4,
+    "FALL_HOLD_DURATION": 5,
+    "GRACE_PERIOD_DURATION": 10,
+    "KEYWORDS": [
+        "help",
+        "ah",
+        "ahh",
+        "ouch",
+        "ow",
+        "pain",
+        "emergency",
+        "stop",
+        "doctor",
+        "hurt"
+    ],
+    "GRACE_PROMPT_TEXT": "Are you okay? Please show thumbs up if you are safe.\r\n",
+    "GRACE_PROMPT_AUDIO": "uploads\/grace_prompts\/grace_prompt_1773908407.mp3"
+}

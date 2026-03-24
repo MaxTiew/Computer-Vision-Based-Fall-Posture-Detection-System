@@ -1,0 +1,197 @@
+INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+W0000 00:00:1774153976.456929    7424 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+W0000 00:00:1774153976.481167    8108 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+W0000 00:00:1774153976.508293   15884 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+W0000 00:00:1774153976.536782   15884 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+W0000 00:00:1774153976.627488    1952 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+W0000 00:00:1774153976.670010    1952 inference_feedback_manager.cc:114] Feedback manager requires a model with a single signature inference. Disabling support for feedback tensors.
+pygame 2.6.1 (SDL 2.28.4, Python 3.11.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Vosk Audio System Initialized.
+Initializing Mediapipe...
+Mediapipe Initialized.
+Initializing Fall Detection (YOLO)...
+Fall Detection Initialized.
+ * Serving Flask app 'smart_detection'
+ * Debug mode: off
+WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.68.105:5000
+Press CTRL+C to quit
+127.0.0.1 - - [22/Mar/2026 12:32:57] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [22/Mar/2026 12:32:57] "OPTIONS /set_elder HTTP/1.1" 200 -
+127.0.0.1 - - [22/Mar/2026 12:32:57] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [22/Mar/2026 12:32:59] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [22/Mar/2026 12:32:59] "POST /set_elder HTTP/1.1" 200 -
+W0000 00:00:1774153979.956853   22336 landmark_projection_calculator.cc:186] Using NORM_RECT without IMAGE_DIMENSIONS is only supported for the square ROI. Provide IMAGE_DIMENSIONS or use PROJECTION_MATRIX.
+127.0.0.1 - - [22/Mar/2026 12:33:00] "GET /video_feed1 HTTP/1.1" 200 -
+127.0.0.1 - - [22/Mar/2026 12:33:00] "GET /video_feed2 HTTP/1.1" 200 -
+127.0.0.1 - - [22/Mar/2026 12:33:00] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [22/Mar/2026 12:33:00] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [22/Mar/2026 12:33:01] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [22/Mar/2026 12:33:01] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [22/Mar/2026 12:33:02] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [22/Mar/2026 12:33:02] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [22/Mar/2026 12:33:03] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [22/Mar/2026 12:33:03] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [22/Mar/2026 12:33:03] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [22/Mar/2026 12:33:03] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [22/Mar/2026 12:33:04] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [22/Mar/2026 12:33:04] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [22/Mar/2026 12:33:05] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [22/Mar/2026 12:33:05] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [22/Mar/2026 12:33:06] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [22/Mar/2026 12:33:06] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [22/Mar/2026 12:33:07] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [22/Mar/2026 12:33:07] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [22/Mar/2026 12:33:07] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [22/Mar/2026 12:33:07] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [22/Mar/2026 12:33:08] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [22/Mar/2026 12:33:08] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [22/Mar/2026 12:33:09] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [22/Mar/2026 12:33:09] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [22/Mar/2026 12:33:10] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [22/Mar/2026 12:33:10] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [22/Mar/2026 12:33:11] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [22/Mar/2026 12:33:11] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [22/Mar/2026 12:33:11] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [22/Mar/2026 12:33:11] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [22/Mar/2026 12:33:12] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [22/Mar/2026 12:33:12] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [22/Mar/2026 12:33:13] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [22/Mar/2026 12:33:13] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [22/Mar/2026 12:33:14] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [22/Mar/2026 12:33:14] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [22/Mar/2026 12:33:15] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [22/Mar/2026 12:33:15] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [22/Mar/2026 12:33:15] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [22/Mar/2026 12:33:15] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [22/Mar/2026 12:33:16] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [22/Mar/2026 12:33:16] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [22/Mar/2026 12:33:17] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [22/Mar/2026 12:33:17] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [22/Mar/2026 12:33:18] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [22/Mar/2026 12:33:18] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [22/Mar/2026 12:33:19] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [22/Mar/2026 12:33:19] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [22/Mar/2026 12:33:19] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [22/Mar/2026 12:33:19] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [22/Mar/2026 12:33:20] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [22/Mar/2026 12:33:20] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [22/Mar/2026 12:33:21] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [22/Mar/2026 12:33:21] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [22/Mar/2026 12:33:22] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [22/Mar/2026 12:33:22] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [22/Mar/2026 12:33:23] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [22/Mar/2026 12:33:23] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [22/Mar/2026 12:33:23] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [22/Mar/2026 12:33:23] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [22/Mar/2026 12:33:24] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [22/Mar/2026 12:33:24] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [22/Mar/2026 12:33:25] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [22/Mar/2026 12:33:25] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [22/Mar/2026 12:33:26] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [22/Mar/2026 12:33:26] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [22/Mar/2026 12:33:27] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [22/Mar/2026 12:33:27] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [22/Mar/2026 12:33:27] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [22/Mar/2026 12:33:27] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [22/Mar/2026 12:33:28] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [22/Mar/2026 12:33:28] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [22/Mar/2026 12:33:29] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [22/Mar/2026 12:33:29] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [22/Mar/2026 12:33:30] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [22/Mar/2026 12:33:30] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [22/Mar/2026 12:33:31] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [22/Mar/2026 12:33:31] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [22/Mar/2026 12:33:31] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [22/Mar/2026 12:33:31] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [22/Mar/2026 12:33:32] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [22/Mar/2026 12:33:32] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [22/Mar/2026 12:33:33] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [22/Mar/2026 12:33:33] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [22/Mar/2026 12:33:34] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [22/Mar/2026 12:33:34] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [22/Mar/2026 12:33:35] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [22/Mar/2026 12:33:35] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [22/Mar/2026 12:33:35] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [22/Mar/2026 12:33:35] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [22/Mar/2026 12:33:36] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [22/Mar/2026 12:33:36] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [22/Mar/2026 12:33:37] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [22/Mar/2026 12:33:37] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [22/Mar/2026 12:33:38] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [22/Mar/2026 12:33:38] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [22/Mar/2026 12:33:39] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [22/Mar/2026 12:33:39] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [22/Mar/2026 12:33:39] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [22/Mar/2026 12:33:39] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [22/Mar/2026 12:33:40] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [22/Mar/2026 12:33:40] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [22/Mar/2026 12:33:41] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [22/Mar/2026 12:33:41] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [22/Mar/2026 12:33:42] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [22/Mar/2026 12:33:42] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [22/Mar/2026 12:33:43] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [22/Mar/2026 12:33:43] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [22/Mar/2026 12:33:43] "GET /video_feed HTTP/1.1" 200 -
+127.0.0.1 - - [22/Mar/2026 12:33:44] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [22/Mar/2026 12:33:45] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [22/Mar/2026 12:33:45] "GET /video_feed1 HTTP/1.1" 200 -
+127.0.0.1 - - [22/Mar/2026 12:33:45] "GET /video_feed2 HTTP/1.1" 200 -
+127.0.0.1 - - [22/Mar/2026 12:33:45] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [22/Mar/2026 12:33:46] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [22/Mar/2026 12:33:46] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [22/Mar/2026 12:33:47] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [22/Mar/2026 12:33:47] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [22/Mar/2026 12:33:48] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [22/Mar/2026 12:33:48] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [22/Mar/2026 12:33:48] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [22/Mar/2026 12:33:49] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [22/Mar/2026 12:33:49] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [22/Mar/2026 12:33:49] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [22/Mar/2026 12:33:50] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [22/Mar/2026 12:33:50] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [22/Mar/2026 12:33:51] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [22/Mar/2026 12:33:51] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [22/Mar/2026 12:33:52] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [22/Mar/2026 12:33:52] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [22/Mar/2026 12:33:52] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [22/Mar/2026 12:33:53] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [22/Mar/2026 12:33:53] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [22/Mar/2026 12:33:53] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [22/Mar/2026 12:33:54] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [22/Mar/2026 12:33:54] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [22/Mar/2026 12:33:55] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [22/Mar/2026 12:33:55] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [22/Mar/2026 12:33:56] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [22/Mar/2026 12:33:56] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [22/Mar/2026 12:33:56] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [22/Mar/2026 12:33:57] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [22/Mar/2026 12:33:57] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [22/Mar/2026 12:33:57] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [22/Mar/2026 12:33:58] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [22/Mar/2026 12:33:58] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [22/Mar/2026 12:33:59] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [22/Mar/2026 12:33:59] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [22/Mar/2026 12:34:00] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [22/Mar/2026 12:34:00] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [22/Mar/2026 12:34:00] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [22/Mar/2026 12:34:01] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [22/Mar/2026 12:34:01] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [22/Mar/2026 12:34:01] "OPTIONS /resolve_alert HTTP/1.1" 200 -
+127.0.0.1 - - [22/Mar/2026 12:34:01] "POST /resolve_alert HTTP/1.1" 200 -
+127.0.0.1 - - [22/Mar/2026 12:34:01] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [22/Mar/2026 12:34:02] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [22/Mar/2026 12:34:03] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [22/Mar/2026 12:34:03] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [22/Mar/2026 12:34:03] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [22/Mar/2026 12:34:03] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [22/Mar/2026 12:34:04] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [22/Mar/2026 12:34:04] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [22/Mar/2026 12:34:05] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [22/Mar/2026 12:34:05] "GET /status HTTP/1.1" 200 -
+127.0.0.1 - - [22/Mar/2026 12:34:05] "GET /shutdown HTTP/1.1" 200 -
+127.0.0.1 - - [22/Mar/2026 12:34:07] "GET /status HTTP/1.1" 200 -
